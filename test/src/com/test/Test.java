@@ -7,4 +7,5 @@ public class Test {
 	public int ss;
 	
 	public int sss;
+	public int t1;
 }
